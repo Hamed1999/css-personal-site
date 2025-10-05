@@ -14,7 +14,7 @@ Here’s how to run and explore the projects locally:
 1. **Clone** this repository
 
    ```bash
-   git clone https://github.com/Hamed1999/css-essential-training-projects.git
+   git clone https://github.com/Hamed1999/css-personal-site.git
    ```
 
 2. **Open** the project folder of a particular exercise (e.g. `01-basics`, `05-layouts`) in your code editor.
