@@ -3,7 +3,7 @@
 This repository contains all my hands-on exercises, projects, and take-home work from the **[CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-22688362)** course on LinkedIn Learning.
 In this course, instructor Christina Truong teaches foundational CSS skills and how to build real responsive layouts.
 
-> The focus: selecting and styling HTML elements, mastering the box model, handling layouts (floats, Flexbox, Grid), typography, responsive design, and more. ([Class Central][2])
+> The focus: selecting and styling HTML elements, mastering the box model, handling layouts (floats, Flexbox, Grid), typography, responsive design, and more.
 
 ---
 
@@ -40,7 +40,7 @@ This course is structured into modules, each building on key CSS concepts. Below
 | Typography                        | Font families, sizes, line-height, Google Fonts            | Styling headers, paragraphs, buttons             |
 | Responsive Design & Media Queries | Breakpoints, fluid layouts, mobile-first style             | Adapting layouts for tablet & mobile views       |
 
-Through these modules, I built a sample **portfolio/resume page** combining all of the above. This mirrors the project at the end of the course. ([GitHub][3])
+Through these modules, I built a sample **portfolio/resume page** combining all of the above. This mirrors the project at the end of the course. 
 
 ---
 
